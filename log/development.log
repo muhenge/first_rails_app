@@ -55,3 +55,5 @@ Entrypoint application = js/application-9afcbb5693aa87623e69.js js/application-9
 Completed 200 OK in 8711ms (Views: 8674.5ms | ActiveRecord: 0.9ms | Allocations: 24626)
 
 
+DEPRECATION WARNING: Using `bin/rake routes` is deprecated and will be removed in Rails 6.1. Use `bin/rails routes` instead.
+ (called from load at /home/code/.rbenv/versions/2.7.1/bin/rake:23)
